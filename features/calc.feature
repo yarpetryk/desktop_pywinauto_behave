@@ -11,7 +11,7 @@ Feature: Calculator
         Examples:
             | num_1   | operation | num_2 | result | expected_result |
             | One     | Plus      | Two   | Equals | 3               |
-            | Seven   | Minus     | Two   | Equals | 6               |
+            | Seven   | Minus     | Two   | Equals | 5               |
             
 
 
